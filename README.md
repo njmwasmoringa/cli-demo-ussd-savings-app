@@ -16,3 +16,9 @@ The application has the following features:-
 
 - ### Request for a statement
     A way to request for a deposit and withdrawal statment from a certain date
+
+## How it works
+run the application from the terminal 
+`ruby app.rb`
+
+Then pick options as presented on the app
